@@ -34,6 +34,6 @@ tensorflow-estimator==1.14.0
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
 wcwidth==0.1.7
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 wrapt==1.11.2
 zipp==0.5.2
